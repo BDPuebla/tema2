@@ -1,0 +1,10 @@
+  - Paso a tablas:
+      - Introducción: paso-tablas-introduccion.md
+      - Proceso: paso-tablas-proceso.md
+      - modelo relacional: paso-tablas-modelo-relacional.md
+  - Normalización: 
+      - Introducción: normalizacion-introduccion.md
+      - Primera forma normal: primera-forma-normal.md
+      - Segunda forma normal: segunda-forma-normal.md
+      - Tercera forma normal: tercera-forma-normal.md
+      - Formas normales superiores: formas-normales-superiores.md

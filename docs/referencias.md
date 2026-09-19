@@ -1,0 +1,6 @@
+* [Diagrama E/R (Wikipedia)](https://es.wikipedia.org/wiki/Diagrama_entidad-relaci%C3%B3n)
+* [Generalización y Especialización (Wikipedia)](https://es.wikipedia.org/wiki/Generalizaci%C3%B3n_y_especializaci%C3%B3n)
+* [Herencia (Wikipedia)](https://es.wikipedia.org/wiki/Herencia_(inform%C3%A1tica))
+* [Modelo Entidad-Relación (Wikipedia)](https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n)
+* [Normalización de bases de datos (Wikipedia)](https://es.wikipedia.org/wiki/Normalizaci%C3%B3n_de_bases_de_datos)
+* [Modelo relacional (Wikipedia)](https://es.wikipedia.org/wiki/Modelo_relacional)
