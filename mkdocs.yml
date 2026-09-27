@@ -23,6 +23,10 @@ nav:
       - Atributos y Claves: atributos.md
       - Ejercicios de Diagramas E/R: diagramas.md
       - Diagrama E/R extendido: diagrama-extendido.md
+  - Paso a tablas:
+      - Introducción: paso-tablas-introduccion.md
+      - Proceso: paso-tablas-proceso.md
+      - Modelo Relacional: paso-tablas-modelo-relacional.md
   - Referencias: referencias.md
 markdown_extensions:
   - admonition
