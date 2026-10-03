@@ -2,54 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://BDPuebla.github.io/tema2/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/atributos/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/diagrama-extendido/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/diagramas/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/entidad-relacion/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/entidades-relaciones/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
+    </url>
+    <url>
+         <loc>https://BDPuebla.github.io/tema2/formas-normales-superiores/</loc>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/introduccion/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/modelado/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
+    </url>
+    <url>
+         <loc>https://BDPuebla.github.io/tema2/normalizacion-introduccion/</loc>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/paso-tablas-introduccion/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/paso-tablas-modelo-relacional/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/paso-tablas-proceso/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
+    </url>
+    <url>
+         <loc>https://BDPuebla.github.io/tema2/primera-forma-normal/</loc>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/referencias/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
+    </url>
+    <url>
+         <loc>https://BDPuebla.github.io/tema2/segunda-forma-normal/</loc>
+         <lastmod>2026-10-03</lastmod>
+    </url>
+    <url>
+         <loc>https://BDPuebla.github.io/tema2/tercera-forma-normal/</loc>
+         <lastmod>2026-10-03</lastmod>
     </url>
     <url>
          <loc>https://BDPuebla.github.io/tema2/tipos-relaciones/</loc>
-         <lastmod>2026-09-28</lastmod>
+         <lastmod>2026-10-03</lastmod>
     </url>
 </urlset>
